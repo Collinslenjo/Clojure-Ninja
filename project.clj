@@ -8,4 +8,4 @@
   	[ring "1.0.1"]
   	[compojure "1.0.1"]
   	[enlive "1.0.0"]]
-  :main hello.core)
+  :main hello.app)
