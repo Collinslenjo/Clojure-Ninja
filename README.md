@@ -1,4 +1,5 @@
-# hello Clojure
+# Clojure Project :fire:
 
-> A Clojure library designed to ... well, that part is up to you.
+> A Clojure project designed to shorten Urls.
+
 
