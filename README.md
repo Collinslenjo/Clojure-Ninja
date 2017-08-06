@@ -1,5 +1,4 @@
-# Clojure Project :fire:
+# Url Shortener
 
-> A Clojure project designed to shorten Urls.
-
+> An Algorithm designed to shorten Urls
 
