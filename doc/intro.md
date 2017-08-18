@@ -1,3 +1,3 @@
-# Introduction to hello
+# Introduction to Clojure-Ninja
 
-TODO: write [great documentation](http://jacobian.org/writing/what-to-write/)
+DOCs: [Clojure-Ninja Documentation](http://jacobian.org/writing/what-to-write/)
