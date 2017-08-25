@@ -7,7 +7,8 @@
   				 [javax.servlet/servlet-api "2.5"]
   				 [ring "1.6.2"]
   				 [compojure "1.6.0"]
-  				 [hiccup "1.0.5"]])
+  				 [hiccup "1.0.5"]
+  				 [com.h2database/h2 "1.4.193"]])
 
 ;[ring/ring-core "1.6.2"]
 ;[ring/ring-jetty-adapter "1.6.2"]
