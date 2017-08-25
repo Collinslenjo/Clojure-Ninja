@@ -1,5 +1,6 @@
 (defproject ninja-app "0.1.0-SNAPSHOT"
-  :description "FIXME: write description"
+  :main ninja-app.core/run
+  :description "This is just a simple Clojure Web Application"
   :url "http://example.com/FIXME"
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
@@ -10,7 +11,5 @@
   				 [hiccup "1.0.5"]
   				 [com.h2database/h2 "1.4.193"]])
 
-;[ring/ring-core "1.6.2"]
-;[ring/ring-jetty-adapter "1.6.2"]
+
 ;[org.clojure/java.jdbc "0.6.0"]
-;[com.h2database/h2 "1.4.193"]
